@@ -48,7 +48,6 @@ public class MatrixRotate {
         final int n = array[0].length;
         int[][] newArray = new int[n][m];
 
-
         for (int r = 0; r < m; r++) {
             for (int c = 0; c < n; c++) {
                 newArray[c][m - 1 - r] = array[r][c];
