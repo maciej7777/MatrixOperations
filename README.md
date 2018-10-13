@@ -1,7 +1,7 @@
 # MatrixOperations
 
 ## About the project
-The project contains implementation of basic matrix operations in java. For now there is only one operation added - rotating the matrix. Please note, that the project enables to rotate the NxN matrix also in place, as it space efficient.
+The project contains implementation of basic matrix operations in java. For now there is only one operation added - rotating the matrix. The project enables to rotate the NxM matrix with additional structure, or rotate NxN matrix in place, as it space efficient.
 
 ## How does a matrix rotation work?
 An example of such an operation is presented below. The frist matrix is a strat matrix:
